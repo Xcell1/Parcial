@@ -1,3 +1,3 @@
 Integrantes:
 - Jorge Antonio Quispe Cueva
-- Nombre de usuario: Xcell1
+  Nombre de usuario: Xcell1
