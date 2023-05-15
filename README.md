@@ -1,3 +1,2 @@
 Integrantes:
-- Jorge Antonio Quispe Cueva
-  Nombre de usuario: Xcell1
+- Jorge Antonio Quispe Cueva // Git username: Xcell1
